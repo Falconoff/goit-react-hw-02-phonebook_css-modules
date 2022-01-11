@@ -1,1 +1,5 @@
-# goit-react-hw-02-phonebook_css-modules
+## GoIT React Homework-02: Phonebook
+
+Stylization: `CSS-modules`
+
+Only files from folder `src`
